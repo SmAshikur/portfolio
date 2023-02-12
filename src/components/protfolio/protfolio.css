@@ -1,0 +1,28 @@
+.protfolio_container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2.5rem;
+}
+.protfolio_item{
+    background: var(--color-bg-varient);
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+.protfolio_item:hover{
+    border-color: var(--color-primary-varient);
+    background: transparent;
+}
+.protfolio_item-image{
+    border-radius: 1.5rem;
+    overflow: hidden;
+}
+.protfolio_item h3{
+    margin: 1.2rem 0 2rem;
+}
+.protfolio_item-cta{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
