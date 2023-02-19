@@ -1,5 +1,7 @@
 import React from 'react'
 import { BsFacebook } from 'react-icons/bs'
+import { FaLinkedin } from 'react-icons/fa'
+import { SiGithub } from 'react-icons/si'
 import './footer.css'
 function footer() {
   return (
@@ -15,10 +17,9 @@ function footer() {
         <li><a href='#contact'>Contact</a></li>
       </ul>
       <div className='footer_socials'>
-        <a href='https://facebook.com'><BsFacebook/></a>
-        <a href='https://facebook.com'><BsFacebook/></a>
-        <a href='https://facebook.com'><BsFacebook/></a>
-        <a href='https://facebook.com'><BsFacebook/></a>
+        <a href='https://web.facebook.com/ashikurashik.a'><BsFacebook/></a>
+        <a href='https://www.linkedin.com/in/s-m-ashikur-rahman-683210193'><FaLinkedin/></a>
+        <a href='https://github.com/SmAshikur'><SiGithub/></a>
       </div>
       <div className='footer_copyright'>
         <small>&copy; S. M. Ashikur Rahman. All Right</small>

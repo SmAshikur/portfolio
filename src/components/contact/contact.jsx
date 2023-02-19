@@ -51,8 +51,8 @@ function Contact() {
               </article>     
               <article className='contact_option'>    
                   <BsWhatsapp/>
-                  <h4>Messenger</h4>
-                  <h5>S. M. Ashikur Rahman</h5>
+                  <h4>whatsapp</h4>
+                  <h5>880 1755955821</h5>
                   <a href='whatsapp://send/?phone=8801755955821' target="_blank">send a message </a>
               </article>   
             </div>

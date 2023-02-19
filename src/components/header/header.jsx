@@ -10,7 +10,7 @@ function header() {
 
           <h5>Hello I'm </h5>
           <h1>S. M. Ashikur Rahman</h1>
-          <h2 className='text-light'> Full Stack Developer </h2>
+          <h4 className='text-light'> Full Stack Developer </h4>
           <CTA/>
           <Socail/>
           <div className='me'>

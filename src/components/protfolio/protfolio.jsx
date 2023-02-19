@@ -12,32 +12,42 @@ function protfolio() {
             <div className='protfolio_item-image'>
                 <img src={IMG1} alt=""></img>
             </div>
-            <h3>This is Protfolio Item TITLE</h3>
+            <h3>Pos Inventory Management with a lot of warehouse</h3>
             <div className='protfolio_item-cta'>
-              <a href='https://github.com' className='btn'>Github link</a>
-              <a href='https://github.com' className='btn btn-primary'>Live Demo</a>
+              <a href='#' className='btn'>Github link</a>
+              <a href='https://rimjhim.shop' target="_blank" className='btn btn-primary'>Live Demo</a>
             </div> 
           </article>
           <article className='protfolio_item'>
             <div className='protfolio_item-image'>
                 <img src={IMG1} alt=""></img>
             </div>
-            <h3>This is Protfolio Item TITLE</h3>
+            <h3>Ecommerce Website</h3>
             <div className='protfolio_item-cta'>
-              <a href='https://github.com' className='btn'>Github link</a>
-              <a href='https://github.com' className='btn btn-primary'>Live Demo</a>
+              <a href='https://github.com'  target="_blank" className='btn'>Github link</a>
+              <a href='https://github.com' target="_blank" className='btn btn-primary'>Live Demo</a>
             </div> 
           </article>
           <article className='protfolio_item'>
             <div className='protfolio_item-image'>
                 <img src={IMG1} alt=""></img>
             </div>
-            <h3>This is Protfolio Item TITLE</h3>
+            <h3>Pos Inventory Management with a lot of warehouse</h3>
+            <div className='protfolio_item-cta'>
+              <a href='#' className='btn'>Github link</a>
+              <a href='https://rimjhim.shop' target="_blank" className='btn btn-primary'>Live Demo</a>
+            </div> 
+          </article>
+          {/* <article className='protfolio_item'>
+            <div className='protfolio_item-image'>
+                <img src={IMG1} alt=""></img>
+            </div>
+            <h3></h3>
             <div className='protfolio_item-cta'>
               <a href='https://github.com' className='btn'>Github link</a>
               <a href='https://github.com' className='btn btn-primary'>Live Demo</a>
             </div> 
-          </article>
+          </article> */}
       
 
        </div>

@@ -3,10 +3,10 @@ import {BiCheck} from 'react-icons/bi'
 import './service.css'
 function services() {
   return (
-    <section id='services'>
+    <section id='service'>
         <h5>What I Offer</h5>
         <h2>Services</h2>
-        <div className="container service_container">
+        <div className="container service_container" >
           <article className='service'>
             <div className='service_haed'>
                 <h3>Web Design</h3>
@@ -18,74 +18,64 @@ function services() {
               </li>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>Company Websits</p>
               </li>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>Ecommerce Websits</p>
               </li>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>Socail Websits</p>
               </li>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>News Portal</p>
               </li>
             </ul>
           </article>
           <article className='service'>
             <div className='service_haed'>
-                <h3>Web Design</h3>
+                <h3>Web Development</h3>
             </div>
             <ul className='service_list'>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>Dynamic Protfilio Websits</p>
               </li>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>Single or multi-vendor Ecommerce CMS</p>
               </li>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>Pos inventory software</p>
               </li>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>School Management System</p>
               </li>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>Libary Management System</p>
               </li>
             </ul>
           </article>
           <article className='service'>
             <div className='service_haed'>
-                <h3>Web Design</h3>
+                <h3>Mobile App Development</h3>
             </div>
             <ul className='service_list'>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>Ecommerce App</p>
               </li>
               <li>
                 <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
+                <p>Socail App</p>
               </li>
-              <li>
-                <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
-              </li>
-              <li>
-                <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
-              </li>
-              <li>
-                <BiCheck className='service_list-icon'/>
-                <p>Protfilio Websits</p>
-              </li>
+           
+           
             </ul>
           </article>
         </div>

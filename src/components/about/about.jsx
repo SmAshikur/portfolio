@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaAward, FaUser } from 'react-icons/fa'
 import {VscFolderLibrary} from 'react-icons/vsc'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/as2.jpg'
 import './about.css'
 
 function about() {
@@ -24,18 +24,19 @@ function about() {
                         </article>
                         <article className='about_card'>
                           <FaUser className='about_icon'/>
-                          <h5>Exprience</h5>
-                          <small>1 Year+ Working Exprience</small>
+                          <h5>Client</h5>
+                          <small>10+ Clients</small>
                         </article>
                         <article className='about_card'>
                           <VscFolderLibrary className='about_icon'/>
-                          <h5>Exprience</h5>
-                          <small>1 Year+ Working Exprience</small>
+                          <h5>Work</h5>
+                          <small>20+ Projects</small>
                         </article>
                   </div>
                         <p>
-                          ankkmkasksnckasnak  jankxnakmnaskc xnkanckacnakscnasascacsasacsc
-                          ancnasckasnckas cnascjasasncjas
+                        Motivated to dedicate my computer programming, analysis & design skill in any Computer
+based working area. I want to offer my full capabilities & knowledge for the organization where
+I will get a chance to work
                         </p>
                         <a href="#contact" className='btn btn-primary'> Lets Talk</a>
               </div>

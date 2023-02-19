@@ -26,3 +26,15 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+@media screen and (max-width:1024px){
+    .protfolio_container{
+        grid-template-columns: 1fr 1fr;
+    }
+ 
+}
+@media screen and (max-width:600px){
+ .protfolio_container{
+    grid-template-columns: 1fr;
+    gap: 1rem;
+ }
+}

@@ -1,5 +1,5 @@
 import React from 'react'
-import Av from '../../assets/ashik.jpg'
+import Av from '../../assets/me.png'
 import './testimonials.css'
 import {  Pagination } from 'swiper';
 
@@ -13,26 +13,26 @@ function testimonials() {
     {
       id:1,
       avater: Av,
-      name:'S M Ashik',
-      review :'vhscksbcskjdbcskjcsjkcsd dsbcsdjbcsjdbcsdjcbsdjcbsdjcbsdjcbsdkcbsdc jcbsjdbcsdkcbdskcbsdkcbsdck bsbdjcbjdcbsdjcb '
+      name:'Demo Client',
+      review :'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum lorem eu neque interdum lacinia. Suspendisse faucibus purus ac risus dignissim consectetur. '
     },
     {
       id:1,
       avater: Av,
-      name:'S M Ashik',
-      review :'vhscksbcskjdbcskjcsjkcsd dsbcsdjbcsjdbcsdjcbsdjcbsdjcbsdjcbsdkcbsdc jcbsjdbcsdkcbdskcbsdkcbsdck bsbdjcbjdcbsdjcb '
+      name:'Demo Client',
+      review :'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum lorem eu neque interdum lacinia. Suspendisse faucibus purus ac risus dignissim consectetur. '
     },
     {
       id:1,
       avater: Av,
-      name:'S M Ashik',
-      review :'vhscksbcskjdbcskjcsjkcsd dsbcsdjbcsjdbcsdjcbsdjcbsdjcbsdjcbsdkcbsdc jcbsjdbcsdkcbdskcbsdkcbsdck bsbdjcbjdcbsdjcb '
+      name:'Demo Client',
+      review :'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum lorem eu neque interdum lacinia. Suspendisse faucibus purus ac risus dignissim consectetur. '
     },
     {
       id:1,
       avater: Av,
-      name:'S M Ashik',
-      review :'vhscksbcskjdbcskjcsjkcsd dsbcsdjbcsjdbcsdjcbsdjcbsdjcbsdjcbsdkcbsdc jcbsjdbcsdkcbdskcbsdkcbsdck bsbdjcbjdcbsdjcb '
+      name:'Demo Client',
+      review :'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum lorem eu neque interdum lacinia. Suspendisse faucibus purus ac risus dignissim consectetur. '
     }
   ]
   return (
